@@ -45,8 +45,6 @@ cd ~/catkin_ws
 catkin_make
 ```
 
-![Screenshot (51)](https://github.com/user-attachments/assets/489fafde-c943-417a-a545-2d928bdc00d3)
-
 
 ![Screenshot (52)](https://github.com/user-attachments/assets/c625658d-6a81-4fbd-8829-1cb5d736c62f)
 
